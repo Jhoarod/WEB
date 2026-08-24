@@ -11,6 +11,10 @@ li{
     color: red;
 }
 
-.faltante{
+.missing-item{
  color: green;
+}
+
+#product-item{
+color: black;
 }
