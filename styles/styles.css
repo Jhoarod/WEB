@@ -1,7 +1,20 @@
-.li{
-    list-style: none;
 
-}
-.ol{
+ol{
     list-style: none;
+}
+
+p{
+    color: blue;
+}
+
+li{
+    color: red;
+}
+
+.missing-item{
+ color: green;
+}
+
+#product-item{
+color: black;
 }
