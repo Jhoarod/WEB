@@ -1,7 +1,16 @@
-.li{
-    list-style: none;
 
-}
-.ol{
+ol{
     list-style: none;
+}
+
+p{
+    color: blue;
+}
+
+li{
+    color: red;
+}
+
+.faltante{
+ color: green;
 }
