@@ -21,12 +21,13 @@ color: black;
 
 .text-description{
     color: red;
-    font-family:  Times ;
+    font-family: Caacupeone;
     font-size: 16px;
     font-weight:200 ;
-    font-style: italic;
+    font-style:italic;
     text-align:justify;
-    line-height: normal;
+    line-height: 1;
+    letter-spacing: 1px; 
 }
 
 h2{
